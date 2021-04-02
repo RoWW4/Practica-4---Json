@@ -1,12 +1,13 @@
 {
     "Mercadona":[
         {
+            "direccion": "Avenida de la libertad 5, El Puerto de Santa María, Cádiz",
             "fechaCompra": "14/05/2020",
             "costeTotal": 17.06,
             "metodoPago": "efectivo",
             "productos" : [
                 {
-                    "nombre": "leche semidesnatada",
+                    "nombre": "Leche semidesnatada",
                     "descripcion": "brick leche semidesnatada de 1L",
                     "marca": "Hacendado",
                     "cantidad": 4,
@@ -46,6 +47,7 @@
 
     "Carrefour":[
         {
+            "direccion": "Calle del Noray 1, El Puerto de Santa María, Cádiz",
             "fechaCompra": "03/06/2020",
             "costeTotal": 22.21,
             "metodoPago": "tarjeta",
@@ -91,6 +93,7 @@
 
     "Lidl":[
         {
+            "direccion": "Avenida de la Constitucion 2, El Puerto de Santa María, Cádiz",
             "fechaCompra": "03/06/2020",
             "costeTotal": 55.66,
             "metodoPago": "tarjeta",
