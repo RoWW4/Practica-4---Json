@@ -1,0 +1,111 @@
+{
+    "Mercadona":[
+        {
+            "fechaCompra": "14/05/2020",
+            "costeTotal": 16.33,
+            "metodoPago": "efectivo",
+            "productos" : [
+                {
+                    "nombre": "leche semidesnatada",
+                    "descripcion": "brick leche semidesnatada de 1L",
+                    "marca": "Hacendado",
+                    "cantidad": 4,
+                    "precioUnidad": 1.09,
+                    "oferta": false,
+                    "TipoOferta": null
+                },
+                {
+                    "nombre": "Arroz basmati",
+                    "descripcion": "Arroz basmati precocinado 125gr",
+                    "marca": "Brillante",
+                    "cantidad": 2,
+                    "precioUnidad": 2.10,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Tomate natural",
+                    "descripcion": "Bote de 350gr",
+                    "marca": "Hacendado",
+                    "cantidad": 3,
+                    "precioUnidad": 0.73,
+                    "oferta": true,
+                    "tipoOferta": "3x2"
+                },
+                {
+                    "nombre": "Pechuga de pollo",
+                    "descripcion": "Bandeja de pechuga de pollo de 400gr",
+                    "marca": "Hacendado",
+                    "cantidad": 1,
+                    "precioUnidad": 4.73,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Yogur Natural",
+                    "descripcion": "pack 6 x 125gr",
+                    "marca": "Hacendado",
+                    "cantidad": 2,
+                    "precioUnidad": 0.79,
+                    "oferta": false,
+                    "tipoOferta": null
+                }
+            ]
+        }
+    ],
+
+    "Carrefour":[
+        {
+            "fechaCompra": "03/06/2020",
+            "costeTotal": 10.6,
+            "metodoPago": "tarjeta",
+            "productos" : [
+                {
+                    "nombre": "Atún en aceite de girasol",
+                    "descripcion": "Atún en aceite de girasol 650gr",
+                    "marca": "Carrefour",
+                    "cantidad": 2,
+                    "precioUnidad": 5.30,
+                    "oferta": false,
+                    "TipoOferta": null
+                },
+                {
+                    "nombre": "Galletas con cerelaes",
+                    "descripcion": "Galletas con cereales Tosta Rica 800gr",
+                    "marca": "Tosta Rica",
+                    "cantidad": 1,
+                    "precioUnidad": 2.75,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Botella Agua mineral",
+                    "descripcion": "Agua mineral Bezoya natural 1.5L",
+                    "marca": "Bezoya",
+                    "cantidad": 6,
+                    "precioUnidad": 0.61,
+                    "oferta": true,
+                    "tipoOferta": "5+1 gratis"
+                },
+                {
+                    "nombre": "Papel de cocina",
+                    "descripcion": "Papel de cocina 4 rollos",
+                    "marca": "Carrefour",
+                    "cantidad": 1,
+                    "precioUnidad": 1.70,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Suavizante concentrado",
+                    "descripcion": "Suavizante concentrado azul 2L",
+                    "marca": "Carrefour",
+                    "cantidad": 2,
+                    "precioUnidad": 1.75,
+                    "oferta": false,
+                    "tipoOferta": null
+                }
+            ]
+        }
+    ]
+}
