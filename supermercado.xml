@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+<Mercadona>
+    <fechaCompra>14/05/2020</fechaCompra>
+    <costeTotal>16.33</costeTotal>
+    <metodoPago>efectivo</metodoPago>
+    <productos>
+      <nombre id=001>leche semidesnatada</nombre>
+      <descripcion>brick leche semidesnatada de 1L</descripcion>
+      <marca>Hacendado</marca>
+      <cantidad>4</cantidad>
+      <precioUnidad>1.09</precioUnidad>
+    </productos>
+    <productos>
+      <nombre id=002>Arroz basmati</nombre>
+      <descripcion>Arroz basmati precocinado 125gr</descripcion>
+      <marca>Brillante</marca>
+      <cantidad>2</cantidad>
+      <precioUnidad>2.10</precioUnidad>
+    </productos>
+    <productos>
+      <nombre id=003>Tomate natural</nombre>
+      <descripcion>Bote de 350gr</descripcion>
+      <marca>Hacendado</marca>
+      <cantidad>3</cantidad>
+      <precioUnidad>0.73</precioUnidad>
+    </productos>
+    <productos>
+      <nombre id=004>Pechuga de pollo</nombre>
+      <descripcion>Bandeja de pechuga de pollo de 400gr</descripcion>
+      <marca>Hacendado</marca>
+      <cantidad>1</cantidad>
+      <precioUnidad>4.73</precioUnidad>
+    </productos>
+    <productos>
+      <nombre id=005>Yogur Natural</nombre>
+      <descripcion>pack 6 x 125gr</descripcion>
+      <marca>Hacendado</marca>
+      <cantidad>2</cantidad>
+      <precioUnidad>0.79</precioUnidad>
+    </productos>
+  </Mercadona>
+</supermercados>
