@@ -107,5 +107,60 @@
                 }
             ]
         }
+    ],
+
+    "Lidl":[
+        {
+            "fechaCompra": "03/06/2020",
+            "costeTotal": 10.6,
+            "metodoPago": "tarjeta",
+            "productos" : [
+                {
+                    "nombre": "Taladradora",
+                    "descripcion": "Atornilladora taladradora 3 en 1",
+                    "marca": "Parkside",
+                    "cantidad": 1,
+                    "precioUnidad": 34.99,
+                    "oferta": false,
+                    "TipoOferta": null
+                },
+                {
+                    "nombre": "Bacalao salado",
+                    "descripcion": "Fileton de bacalao salado",
+                    "marca": "Ocean Sea",
+                    "cantidad": 1,
+                    "precioUnidad": 7.49,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Caja de capsulas café",
+                    "descripcion": "20 cápsulas Bellarom de Café",
+                    "marca": "Bellarom",
+                    "cantidad": 1,
+                    "precioUnidad": 3.29,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Media docena de huevos",
+                    "descripcion": "Pack 6 huevos talla M",
+                    "marca": "BIO",
+                    "cantidad": 1,
+                    "precioUnidad": 1.99,
+                    "oferta": false,
+                    "tipoOferta": null
+                },
+                {
+                    "nombre": "Botella aceite",
+                    "descripcion": "Botella de aceite de oliva virgen extra 500ml",
+                    "marca": "Olisone",
+                    "cantidad": 2,
+                    "precioUnidad": 3.95,
+                    "oferta": false,
+                    "tipoOferta": null
+                }
+            ]
+        }
     ]
 }
